@@ -1,0 +1,4 @@
+1. Click on clojure.bat.
+2. Load the file player.clj with the following command:
+(load-file "player.clj")
+3. Follow the prompt.
